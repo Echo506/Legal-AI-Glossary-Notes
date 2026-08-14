@@ -26,6 +26,19 @@ Llano Alonso, F. H., y Solar Cayón, J. I. (dirs.). *Glosario básico de intelig
 | `Etica-y-Regulacion` | Sesgos, privacidad, transparencia, ética y regulación |
 | `LegalTech` | Aplicaciones de IA en el sector jurídico |
 | `Ciberseguridad` | Riesgos, controles y uso seguro de IA jurídica |
+
+## Estado del proyecto
+
+En desarrollo. El contenido se actualiza progresivamente como parte de un proceso de estudio, investigación y portafolio personal.
+
+## Próximos temas
+
+- Machine learning aplicado al ámbito jurídico
+- Regulación de inteligencia artificial
+- Gestión de riesgos en sistemas de IA
+- Prompt injection y seguridad de modelos de lenguaje
+- Auditoría y evaluación de sistemas de IA
+- 
 ## Autor
 Wilfrido Pérez Romero  
 Estudiante de ciberseguridad, sistemas e inteligencia artificial aplicada.
