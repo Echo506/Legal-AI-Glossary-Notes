@@ -22,11 +22,10 @@ Llano Alonso, F. H., y Solar Cayón, J. I. (dirs.). *Glosario básico de intelig
 
 | Carpeta | Contenido |
 |---|---|
-| `01-Fundamentos-IA` | Conceptos técnicos de inteligencia artificial |
-| `02-Etica-y-Regulacion` | Sesgos, privacidad, ética y regulación |
-| `03-LegalTech` | Aplicaciones de IA en el sector jurídico |
-| `referencias.md` | Fuentes consultadas y nota de uso |
-
+| `Fundamentos-IA` | Conceptos técnicos de inteligencia artificial y modelos de lenguaje |
+| `Etica-y-Regulacion` | Sesgos, privacidad, transparencia, ética y regulación |
+| `LegalTech` | Aplicaciones de IA en el sector jurídico |
+| `Ciberseguridad` | Riesgos, controles y uso seguro de IA jurídica |
 ## Autor
 Wilfrido Pérez Romero  
 Estudiante de ciberseguridad, sistemas e inteligencia artificial aplicada.
