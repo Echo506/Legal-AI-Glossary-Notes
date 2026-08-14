@@ -38,7 +38,7 @@ En desarrollo. El contenido se actualiza progresivamente como parte de un proces
 - Gestión de riesgos en sistemas de IA
 - Prompt injection y seguridad de modelos de lenguaje
 - Auditoría y evaluación de sistemas de IA
-- 
+  
 ## Autor
 Wilfrido Pérez Romero  
 Estudiante de ciberseguridad, sistemas e inteligencia artificial aplicada.
