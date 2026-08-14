@@ -17,3 +17,16 @@ Documentar conceptos técnicos, éticos y jurídicos relacionados con la IA jur�
 Llano Alonso, F. H., y Solar Cayón, J. I. (dirs.). *Glosario básico de inteligencia artificial jurídica*, Ediciones Laborum, 2026.
 
 > Este repositorio contiene apuntes y análisis personales. No reproduce ni distribuye el contenido íntegro de la obra.
+
+## Estructura del repositorio
+
+| Carpeta | Contenido |
+|---|---|
+| `01-Fundamentos-IA` | Conceptos técnicos de inteligencia artificial |
+| `02-Etica-y-Regulacion` | Sesgos, privacidad, ética y regulación |
+| `03-LegalTech` | Aplicaciones de IA en el sector jurídico |
+| `referencias.md` | Fuentes consultadas y nota de uso |
+
+## Autor
+Wilfrido Pérez Romero  
+Estudiante de ciberseguridad, sistemas e inteligencia artificial aplicada.
